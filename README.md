@@ -16,5 +16,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 
 
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+
 <a href="https://www.codecademy.com/profiles/2003salar"><img alt="Codecademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"/>
 <a href="https://developer.mozilla.org/"><img alt="MDN" src="https://img.shields.io/badge/MDN-000000?style=for-the-badge&logo=mozilla&logoColor=white" /></a>
