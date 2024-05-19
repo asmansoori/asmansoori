@@ -1,7 +1,7 @@
 # 👋 Hi, I am Ahmad Salar
 
 - 🌱 I’m currently learning Back-End Engineer Path in [Codecademy](https://www.codecademy.com/profiles/2003salar)
-- 👯 I'm interested in collaborating on projects that involve JavaScript
+- 👯 I'm interested in collaborating on projects that involve JavaScript, particularly with Node.js/Express.js.
 - 💬 Hands-on coding since July 2023 (C & Python)
 - 📫 You can reach me at [salar.mansoori.1@gmail.com](mailto:salar.mansoori.1@gmail.com)
 - ⚡ Fun fact: I love coding and coffee ☕ 
@@ -28,3 +28,5 @@
 
 ### Database
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
