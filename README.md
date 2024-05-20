@@ -6,7 +6,7 @@
 - 📫 You can reach me at [salar.mansoori.1@gmail.com](mailto:salar.mansoori.1@gmail.com)
 - ⚡ Fun fact: I love coding and coffee ☕ 
 
-[My CV](cv.pdf)
+[My CV](https://drive.google.com/file/d/1S7FvV6OzEV1_ibu3GYeuxO1KcJwzaAop/view?usp=drive_link)
 
 ## Version Control and Development Platforms
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
