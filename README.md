@@ -6,6 +6,8 @@
 - 📫 You can reach me at [salar.mansoori.1@gmail.com](mailto:salar.mansoori.1@gmail.com)
 - ⚡ Fun fact: I love coding and coffee ☕ 
 
+[My CV](cv.pdf)
+
 ## Version Control and Development Platforms
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/){:target="_blank"}
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/){:target="_blank"}
@@ -28,5 +30,3 @@
 ## Database
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/){:target="_blank"}
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/){:target="_blank"}
-
-[My CV](cv.pdf){:target="_blank"}
