@@ -1,12 +1,13 @@
-# 👋 Hi, I am Ahmad Salar
+# 👋 Hi there, I'm Ahmad Salar!
 
-- 🎓 Professional certified by [Codecademy](https://www.codecademy.com/profiles/2003salar/certificates/810f53d14de24b938cc13c7c2af1e686)
-- 👯 I'm interested in collaborating on projects that involve JavaScript, particularly with Node.js/Express.js.
-- 💬 Hands-on coding since July 2023 (C & Python)
-- 📫 You can reach me at [salar.mansoori.1@gmail.com](mailto:salar.mansoori.1@gmail.com)
-- ⚡ Fun fact: I love coding and coffee ☕ 
+- 🎓 Certified professional by [Codecademy](https://www.codecademy.com/profiles/2003salar/certificates/810f53d14de24b938cc13c7c2af1e686)
+- 👯 Passionate about collaborating on JavaScript projects, especially with Node.js/Express.js.
+- 💬 Actively coding since July 2023 (C & Python)
+- 📫 Reach out to me at [salar.mansoori.1@gmail.com](mailto:salar.mansoori.1@gmail.com)
+- ⚡ Fun fact: I love coding and can't function without my daily dose of coffee ☕ 
 
-[My CV](https://drive.google.com/file/d/1S7FvV6OzEV1_ibu3GYeuxO1KcJwzaAop/view?usp=sharing)
+### My CV
+[View my CV](https://drive.google.com/file/d/1S7FvV6OzEV1_ibu3GYeuxO1KcJwzaAop/view?usp=sharing)
 
 ## Version Control and Development Platforms
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
