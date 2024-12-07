@@ -47,7 +47,7 @@
 
 ### 🌐 Let's Connect  
 
-📧 [salar.mansoori.1@gmail.com](mailto:salar.mansoori.1@gmail.com)  
+📧 [salarmansoori@icloud.com](mailto:salarmansoori@icloud.com)  
 
 🤝 Open to collaborating on innovative backend and ML projects!  
 
