@@ -38,6 +38,6 @@
 
 📧 [salarmansoori@icloud.com](mailto:salarmansoori@icloud.com)  
 
-🤝 Open to collaborating on innovative backend and ML projects!  
+🤝 Open to collaborating on innovative fullstack and ML projects!  
 
 ---
