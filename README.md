@@ -57,8 +57,4 @@
 
 </p>
 
-### Let's Connect  
-
-📧 [salarmansoori@icloud.com](mailto:salarmansoori@icloud.com)  
-
 ---
